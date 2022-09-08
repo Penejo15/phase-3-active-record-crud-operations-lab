@@ -45,4 +45,4 @@ class Movie < ActiveRecord::Base
       Movie.destroy_all
     end
   
-  end
+end
